@@ -118,3 +118,9 @@ h2{
     height: 705px;
     margin: 150px auto;
 }
+.bbb{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    
+}
